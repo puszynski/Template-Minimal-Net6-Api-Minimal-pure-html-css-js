@@ -1,0 +1,15 @@
+﻿body {
+    background-color: black;
+}
+
+* {
+    font-family: 'CascadiaCode', monospace;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: gainsboro;
+}
